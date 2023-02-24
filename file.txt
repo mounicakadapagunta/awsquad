@@ -11,3 +11,4 @@ maheswari
 
 added credential store
 
+config globally
