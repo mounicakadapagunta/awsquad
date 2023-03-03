@@ -1,18 +1,1 @@
-hey aws squad 
-yaswanth 
-irfan
-mounica
-rajesh
-muhunthan
-rahul
-nandini
-maheswari
 
-
-added credential store
-
-config globally
-
-
-
-======================================
